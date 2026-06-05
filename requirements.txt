@@ -1,0 +1,17 @@
+# Зависимости для приложения MyFinances
+
+# PyQt5 - графический фреймворк
+PyQt5==5.15.9
+PyQt5-sip==12.13.0
+
+# SQLAlchemy - ORM для работы с БД
+SQLAlchemy==2.0.23
+
+# bcrypt - безопасное хеширование паролей
+bcrypt==4.1.1
+
+# openai - клиент для OpenRouter/OpenAI совместимого API
+openai>=1.0.0
+
+# requests - HTTP библиотека
+requests>=2.31.0
